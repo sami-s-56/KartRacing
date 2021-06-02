@@ -1,0 +1,12 @@
+MultiPlayer Car Game:
+
+Force = Mass * Acceleration 
+Acceleration = Force / Mass
+
+Some basic Terms: 
+ - Dampening Force (Downwards force applied by vehicle`s mass on to spring (suspension))
+
+- Torque (Rotational Equivalent of Force)
+
+Slipping of car: 
+ - Forget about all other values (Need to be expert in physics for those), just tweaking the siffness in both sideways and for ward friction will give the skidding effect.
